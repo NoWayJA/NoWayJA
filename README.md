@@ -116,8 +116,8 @@
 <details>
 <summary><b>🌐 Global Health Technology</b></summary>
 
-- 🏥 Architected WHO Event Information System
-- 🚨 Developed Global Outbreak Alert and Response Network
+- 🏥 Architected World Health Organization Event Information System
+- 🚨 Architected World Health Organization Global Outbreak Alert and Response Network
 - 📱 Created multiple mobile health applications
 - 🦟 Built platforms addressing malaria and HIV
 
